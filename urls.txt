@@ -1,1 +1,2 @@
 http://backend.course#Volodka2005
+http://backend.course?name=Ð©ÑÑ%20ÐÐ¾Ð»Ð¾Ð´Ð¸Ð¼Ð¸Ñ&github_name=Volodka2005&group=Ð¤ÐÐ-26Ñ&subgroup=ÐÑÐ´Ð³ÑÑÐ¿Ð°%202
